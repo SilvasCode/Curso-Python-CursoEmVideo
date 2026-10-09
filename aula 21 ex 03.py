@@ -24,3 +24,4 @@ elif nome_jogador == '':
 
 else:
     print(jogador(nome_jogador, num_gols))
+
